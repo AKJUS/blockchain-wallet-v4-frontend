@@ -73,6 +73,6 @@
     "styled-components": "4.4.1"
   },
   "devDependencies": {
-    "@storybook/cli": "6.2.9"
+    "@storybook/cli": "8.2.0"
   }
 }
